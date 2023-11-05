@@ -1,0 +1,5 @@
+# blank lines and lines starting with a # are ignored.
+# format: [identifier] [notes]
+# notes are usually "<Alignment> <Rolename>"
+# eg. cba Town Submarine Officer
+
