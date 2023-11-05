@@ -1,0 +1,9 @@
+§ OPTIONS - ONE PER LINE
+§ <target> denotes an identifier
+
+# WIRETAP <target> enable/disable // enables and disables wiretaps on people
+# MAKE-NIGHT-CHAT <channel_name> *<targets> // makes a chat in the private channel category with the given name and participants
+
+§ --------------------------------------------------------------------------------------------------------------------------------
+
+MAKE-NIGHT-CHAT n1-group-chat 42c 4d2
